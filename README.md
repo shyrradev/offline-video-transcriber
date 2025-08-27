@@ -1,4 +1,3 @@
-Here’s a full README.md you can put in your repo:
 
 # 🎥 Offline Video Transcriber
 
